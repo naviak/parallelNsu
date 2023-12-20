@@ -2,8 +2,6 @@
 
 #include "Vector.h"
 
-#include <array>
-#include <vector>
 #include <memory>
 
 struct Body;

@@ -1,6 +1,5 @@
 #pragma once
 struct Globs
 {
-  inline static double timeStep = 0;
+  inline static double timeStep = 0.05;
 };
-
